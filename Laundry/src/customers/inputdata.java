@@ -1,6 +1,5 @@
 package customers;
 
-
 /**
  *
  * @author mity
