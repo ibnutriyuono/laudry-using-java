@@ -1,0 +1,8 @@
+
+/**
+ *
+ * @author mity
+ */
+class main {
+    
+}
